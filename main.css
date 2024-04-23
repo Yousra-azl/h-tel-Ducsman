@@ -1,1 +1,13 @@
-/*# sourceMappingURL=main.css.map */
+.section1 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 500px 300px;
+  gap: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.section1 .chambre {
+  background-color: #ddd;
+  padding: 20px;
+  text-align: center;
+}/*# sourceMappingURL=main.css.map */
